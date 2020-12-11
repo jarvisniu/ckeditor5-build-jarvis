@@ -1,22 +1,20 @@
 # ckeditor5-build-jarvis
 
-Jarvis's CKEditor 5 build based on ClassicEditor
+![This build](https://badge.fury.io/js/ckeditor5-build-jarvis.svg)
+![Official](https://badge.fury.io/js/ckeditor5.svg)
 
-[![source version](https://badge.fury.io/js/ckeditor5.svg)](https://www.npmjs.com/package/ckeditor5)
-[![current version](https://badge.fury.io/js/ckeditor5-build-jarvis.svg)](https://www.npmjs.com/package/ckeditor5-build-jarvis)
+Jarvis's CKEditor 5 build based on ClassicEditor
 
 [Demo](https://unpkg.com/ckeditor5-build-jarvis/build/index.html)
 
-Forked from [https://github.com/ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
-
-# Build features
+## Features
 
 - Nearly full plugins
 - English and Chinese(中文) demo page
 
-# Packages
+## Packages
 
-## Core libraries
+### Core libraries
 
 - `@ckeditor/ckeditor5-engine`
 - `@ckeditor/ckeditor5-core`
@@ -27,13 +25,13 @@ Forked from [https://github.com/ckeditor/ckeditor5](https://github.com/ckeditor/
 - `@ckeditor/ckeditor5-watchdog`
 - `@ckeditor/ckeditor5-cloud-services`
 
-## Basic plugins
+### Basic plugins
 
 - `@ckeditor/ckeditor5-editor-classic`
 - `@ckeditor/ckeditor5-essentials`
 - `@ckeditor/ckeditor5-theme-lark`
 
-## Included feature plugins
+### Included feature plugins
 
 Official features: [https://github.com/ckeditor/ckeditor5#features](https://github.com/ckeditor/ckeditor5#features)
 
@@ -70,7 +68,7 @@ Official features: [https://github.com/ckeditor/ckeditor5#features](https://gith
 - `@ckeditor/ckeditor5-undo`
 - `@ckeditor/ckeditor5-word-count`
 
-## Not included feature plugins
+### Not included feature plugins
 
 > Relating to ckfinder, export, collaboration, proprietary, etc.
 
@@ -83,6 +81,6 @@ Official features: [https://github.com/ckeditor/ckeditor5#features](https://gith
 - `@ckeditor/ckeditor5-real-time-collaboration`
 - `@ckeditor/ckeditor5-track-changes`
 
-# Licence
+## Licence
 
 GPL-2
