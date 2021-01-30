@@ -33,7 +33,8 @@ Jarvis's CKEditor 5 build based on ClassicEditor
 
 ### Included feature plugins
 
-Official features: [https://github.com/ckeditor/ckeditor5#features](https://github.com/ckeditor/ckeditor5#features)
+<!-- Official CHANGELOG https://github.com/ckeditor/ckeditor5/blob/master/CHANGELOG.md -->
+Official list: [https://github.com/ckeditor/ckeditor5#features](https://github.com/ckeditor/ckeditor5#features)
 
 - `@ckeditor/ckeditor5-adapter-ckfinder`
 - `@ckeditor/ckeditor5-alignment`
