@@ -43,6 +43,7 @@ Official list: [https://github.com/ckeditor/ckeditor5#features](https://github.c
 - `@ckeditor/ckeditor5-basic-styles`
 - `@ckeditor/ckeditor5-block-quote`
 - `@ckeditor/ckeditor5-clipboard`
+- `@ckeditor/ckeditor5-cloud-services`
 - `@ckeditor/ckeditor5-code-block`
 - `@ckeditor/ckeditor5-easy-image`
 - `@ckeditor/ckeditor5-enter`

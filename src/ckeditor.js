@@ -19,6 +19,7 @@ import ImageCaption from '@ckeditor/ckeditor5-image/src/imagecaption'
 import ImageStyle from '@ckeditor/ckeditor5-image/src/imagestyle'
 import ImageToolbar from '@ckeditor/ckeditor5-image/src/imagetoolbar'
 import ImageUpload from '@ckeditor/ckeditor5-image/src/imageupload'
+import CloudServicesPlugin from '@ckeditor/ckeditor5-cloud-services/src/cloudservices'
 import Indent from '@ckeditor/ckeditor5-indent/src/indent'
 import Link from '@ckeditor/ckeditor5-link/src/link'
 import List from '@ckeditor/ckeditor5-list/src/list'
@@ -75,6 +76,7 @@ JarvisEditor.builtinPlugins = [
   ImageStyle,
   ImageToolbar,
   ImageUpload,
+  CloudServicesPlugin,
   Indent,
   Link,
   List,
@@ -176,7 +178,7 @@ JarvisEditor.defaultConfig = {
   image: {
     toolbar: [
       'imageStyle:alignLeft',
-      'imageStyle:full',
+      'imageStyle:block',
       'imageStyle:alignRight',
       '|',
       'imageTextAlternative',
